@@ -87,6 +87,12 @@ Journal of South China Agricultural University
 _Author_:Yunfei Wang, ***Xingshi Xu***, Shujin Zhang, Yuchen Wen, Liuru Pu, Yongjie Zhao, Huaibo Song  
 [链接](https://doi.org/10.1016/j.asoc.2024.112340) https://doi.org/10.1016/j.asoc.2024.112340  
 Applied Soft Computing   
+
+#####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Round-the-clock accurate sheep face recognition via frequency enhancement and cross-modal embedding generation  🆕    
+_Author_:***Xingshi Xu***, Huaibo Song, Haowen Pan, Diyi Chen, Shuming Yang   
+[链接](https://doi.org/10.1016/j.compag.2025.110918) https://doi.org/10.1016/j.compag.2025.110918   
+Computers and Electronics in Agriculture     
+
   
 ## 🧩体尺测量
 #####  &#x2714; Fusion of CREStereo and MobileViT-Pose for rapid measurement of cattle body size  🆕    
