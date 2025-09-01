@@ -49,7 +49,7 @@ Mainly Contributors:
 ## Works
 ----------
 # 🧩🧩About Animal  
-(:wink::wink::wink:We Don’t Talk Anymore, Let's Talk Animal!:rofl::rofl::rofl:) 
+(:wink: :wink: :wink:We Don’t Talk Anymore, Let's Talk Animal!:rofl: :rofl: :rofl:) 
 ## 🧩身份识别  
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
 _Author_:***Xingshi Xu***, Hongxing Deng, Yunfei Wang, Shujin Zhang, Huaibo Song  
