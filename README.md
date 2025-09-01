@@ -1,6 +1,6 @@
-# a Repo for my (or my team's) work
-
-### 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)   
+# a Repo for my (or my team's) work  
+ 
+### 许兴时, Xingshi Xu (Hings Hsu)  [My ORCID](https://orcid.org/0000-0002-6687-6975)    
   
 **Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree at [NWAFU](https://www.nwafu.edu.cn/) & [KU LEUVEN](https://www.kuleuven.be/english/kuleuven/). His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
 He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applications of artificial intelligence (EAAI), Computers and Electronics in Agriculture (COMPAG), Biosystems engineering (BE), Applied Soft Computing (ASOC), Neurocomputing (NEUCOM) and other journals.   
@@ -48,7 +48,8 @@ Mainly Contributors:
 ----------
 ## Works
 ----------
-# 🧩🧩About Animal
+# 🧩🧩About Animal  
+(:wink::wink::wink:We Don’t Talk Anymore, Let's Talk Animal!:rofl::rofl::rofl:) 
 ## 🧩身份识别  
 #####  &#x2714; ![](https://img.shields.io/badge/FirstAuthor-XuXingshi-orange.svg) Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  🆕  
 _Author_:***Xingshi Xu***, Hongxing Deng, Yunfei Wang, Shujin Zhang, Huaibo Song  
