@@ -9,6 +9,7 @@ He is a reviewer of Expert Systems With Applications (EWSA)，Engineering applic
   
 他是以下期刊的审稿人：   
   Computers and Electronics in Agriculture (_**COMPAG**_)，   
+  Pattern Recognition  (_**PR**_)，   
   Expert Systems With Applications (_**EWSA**_)，  
   Engineering Applications of Artificial Intelligence (_**EAAI**_),   
   Applied Soft Computing (_**ASOC**_),  
