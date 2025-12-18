@@ -5,7 +5,7 @@
 **Xingshi Xu** received the B.S. degree in electronics and information engineering from NWAFU, Xianyang, China, in 2022. He is currently pursuing the Ph.D. degree at [NWAFU](https://www.nwafu.edu.cn/) & [KU LEUVEN](https://www.kuleuven.be/english/kuleuven/). His current research interests include biometrics (i.e.cattle recognition) and image enhancing (i.e. image restoration).   
     
   
-**许兴时**在2022年西北农林科技大学机械与电子工程学院获得学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间获**国家奖学金** (并入选**[**人民日报**](http://edu.people.com.cn/n1/2024/0505/c1006-40228972.html)**国家奖学金优秀代表名录**，该名录每年在4.5万获国奖的研究生中遴选100名)、[**陕西省教育厅**](http://jyt.shaanxi.gov.cn/news/gsgg/202205/24/20589.html)**优秀学生干部**（从陕西省该届41.5万毕业生中遴选387人）。他曾在[**国家生猪技术创新中心**](http://www.nctip.cn/)大数据所实习。他在CSC资助下在[**鲁汶大学**](https://www.kuleuven.be/english/kuleuven/)联合培养。他的研究领域涉及智慧养殖领域的细粒度分类、图像增强等。   
+**许兴时**在2022年西北农林科技大学机械与电子工程学院获得工学学士学位，同年免试攻读硕士学位。他目前在西北农林科技大学攻读博士学位(硕博连读)。期间，获**国家奖学金** (并入选**[**人民日报**](http://edu.people.com.cn/n1/2024/0505/c1006-40228972.html)**国家奖学金优秀代表名录**，该名录每年在4.5万获国奖的研究生中遴选100名)、[**陕西省教育厅**](http://jyt.shaanxi.gov.cn/news/gsgg/202205/24/20589.html)**优秀学生干部**（从陕西省该届41.5万毕业生中遴选387人）。他曾在[**国家生猪技术创新中心**](http://www.nctip.cn/)大数据所实习。他在CSC资助下在[**鲁汶大学**](https://www.kuleuven.be/english/kuleuven/)联合培养。他获得[中国科协青年科技人才培育工程博士生专项计划](https://www.cast.org.cn/xw/gzdt/ZZRC/art/2025/art_310cf9224eb94be8b8fb1376f4ce994e.html)资助。他的研究方向为“大型畜牧智慧养殖技术与装备”，研究领域涉及智慧养殖领域的细粒度分类、时空信息分析、图像增强等。   
   
 他是以下期刊的审稿人：  
 He is a reviewer of：  
