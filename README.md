@@ -23,9 +23,11 @@ He is a reviewer of：
 * **My Supervisor (导师)**: [Huaibo Song](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318457.htm) 宋怀波  
 * **My CSC Supervisor (联培导师)**:  [Tomás Norton, FIAgrE, FRSB](https://www.kuleuven.be/wieiswie/en/person/00108068) 托马斯·诺顿  
   
-Other supervisor 项目相关的其他老师:   
+Other supervisor 下述工作中涉及的相关其他老师:   
+| [Benhai Xiong](https://ias.caas.cn/rcdw/zgjzc/7ca2f74d22c14333845c6572b70b2e24.htm) | 熊本海| 
 | [Diyi Chen](https://sjxy.nwsuaf.edu.cn/szdwB/gjzcB/16793B.htm) | 陈帝伊|  
 | [Shuming Yang](https://jxgc.nxu.edu.cn/info/1043/6391.htm) | 杨术明| 
+
 
 ----------------------------------------
 
